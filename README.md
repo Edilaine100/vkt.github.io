@@ -1,6 +1,7 @@
 #  VKT
 ## Volume de tráfego das capitais brasileiras e suas Regiões Metropolitanas
 
+![transito](https://www.vero.com.br/wp-content/uploads/2019/09/iStock-1045979216.jpg)
 
 
 SUMÁRIO
