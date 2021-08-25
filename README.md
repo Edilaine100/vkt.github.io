@@ -4,6 +4,30 @@
 ![transito](https://www.vero.com.br/wp-content/uploads/2019/09/iStock-1045979216.jpg)
 
 
+
+````
+
+def  get_tipo ( modelo ):
+    motocicleta  = [ 'CG' , 'YS' , 'YBS' , 'FAZER' ]
+    #onibus = ['']
+    #caminhao = ['']
+    #print (modelo)
+    #print (type (modelo))
+    #if (modelo é nenhum):
+    # Retorna ''
+    if ( any ([ x  no  modelo  para  x  na  motocicleta ])):
+        retornar  'MOTOCICLETA'
+    #elif (any ([x no modelo para x em onibus])):
+    # retornar 'ONIBUS'
+    #elif (qualquer ([x no modelo para x em caminhao])):
+    # return 'CAMINHAO'
+    mais :
+        retornar  'AUTOMOVEL'
+        `
+        ```
+        
+        
+
 SUMÁRIO
 
 
