@@ -63,7 +63,7 @@ B: Algoritmo de cálculo da mortalidade em sinistros de trânsito por VKT
 
 
 
-É muito fácil colocar algumas palavras em ** negrito ** e outras palavras em * itálico * com Markdown. Você pode até [link para o Google!] (Http://google.com)
+> É muito fácil colocar algumas palavras em ** negrito ** e outras palavras em * itálico * com Markdown. Você pode até [link para o Google!] (Http://google.com)..
 
 Às vezes você quer listas numeradas:
 
